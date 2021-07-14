@@ -1,0 +1,36 @@
+body {
+  text-align: center;
+  padding: 150px;
+  font: 20px Helvetica, sans-serif;
+  color: #333;
+}
+
+@media (max-width:620px) {
+  body {
+    padding: 20px !important;
+    margin-top: 30%;
+  }
+}
+
+h1 {
+  font-size: 60px;
+  background: linear-gradient(to right, #30CFD0 0%, #330867 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+article {
+  display: block;
+  width: 650px;
+  margin: 0 auto;
+}
+
+a {
+  color: #dc8100;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #333;
+  text-decoration: none;
+}
