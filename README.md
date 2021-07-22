@@ -1,1 +1,1 @@
-# simple_site_maintenance
+# Simple site maintenance web page.
